@@ -12,7 +12,7 @@ Full-Stack & Mobile Developer building practical apps — from iOS tools to web 
 
 ### 🚀 Featured Projects
 
-**[EinfachVolley](https://github.com/mehmetkural/EinfachVolley)** — Web app for organizing volleyball teams and games (TypeScript)
+**[EinfachVolley](https://github.com/mehmetkural/EinfachVolley)** — Full-stack platform (Next.js, TypeScript, Firebase) for organizing volleyball communities: match scheduling, RSVP, venue discovery, and stats
 
 **[SpeedDatingKaro](https://github.com/mehmetkural/SpeedDatingKaro)** — Web project built for a local café (TypeScript)
 
@@ -20,7 +20,7 @@ Full-Stack & Mobile Developer building practical apps — from iOS tools to web 
 
 **[My_QuizApp](https://github.com/mehmetkural/My_QuizApp)** — Quiz app for law exam preparation (Swift)
 
-**[quiz-app-privacy](https://github.com/mehmetkural/quiz-app-privacy)** — Privacy-focused quiz application
+**[Privatrecht](https://github.com/mehmetkural/Privatrecht)** — Web-based Privatrecht exam quiz app with activation-code licensing and an admin panel (privatrecht-quiz.vercel.app)
 
 **[nekadarharciyorum](https://github.com/mehmetkural/nekadarharciyorum)** — Personal expense-tracking web app
 
